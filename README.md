@@ -1,1 +1,2 @@
 # Anime_Dataset_Management
+Tools: C ++, Anime data set, Data structures 	Data structures are applied on Anime data set containing data of and 50K. 20 different functions can be performed on data set including listing present information (e.g. print all anime’s,producers,studios etc.), listing anime sorted by statistics (e.g. by episode count, favourites etc.), searching anime through user input (e.g. by producer,  name, average user score etc.), insertion, deletion, or modification. 
